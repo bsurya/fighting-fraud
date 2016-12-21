@@ -1,5 +1,6 @@
 package com.intellytix.util;
 
+import org.junit.Before;
 
 public class JunitTest {
 
